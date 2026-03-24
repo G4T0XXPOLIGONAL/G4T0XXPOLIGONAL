@@ -1,6 +1,6 @@
 # 🔁 Starting Life in Another Repository from Zero
 
-Olá! Eu sou o **G4T0XXPOLIGONAL**. Bem-vindo ao meu perfil no GitHub! 
+Olá! Eu sou o **GABRIEL SORENSEN**. Bem-vindo ao meu perfil no GitHub! 
 
 Assim como o Subaru, acredito que não importa quantas vezes o código "quebre" ou os bugs apareçam, sempre podemos dar um *Return by Death*, aprender com a falha e voltar mais fortes para compilar de novo.
 
