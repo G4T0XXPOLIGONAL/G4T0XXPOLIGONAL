@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=FF0000&center=true&vCenter=true&width=760&lines=Software+Engineer;IA+Multimodelo+%7C+Mobile+%7C+WebGL;Produtos+digitais+com+performance+e+design" alt="Typing SVG"/>
+</div>
+
 Olá! Eu sou o **GABRIEL SORENSEN**. Bem-vindo ao meu perfil no GitHub!
 
 Assim como o Subaru, acredito que não importa quantas vezes o código "quebre" ou os bugs apareçam, sempre podemos dar um *Return by Death*, aprender com a falha e voltar mais fortes para compilar de novo.
@@ -83,7 +87,21 @@ Sou estudante de Computação em Mato Grosso e trabalho unindo engenharia de sof
   <a href="https://www.instagram.com/g4_wps" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.linkedin.com/in/gabriel-matos-sorensen-a16672406?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <img src="https://img.shields.io/badge/Discord-g4__wps-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</div>
+
+## 📈 Atividade
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GABRIELMSORENSEN&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GABRIELMSORENSEN&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=000000" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=90&section=footer" alt="G4T0XX profile footer"/>
 </div>
 
 <br>
