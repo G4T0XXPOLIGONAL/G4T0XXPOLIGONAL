@@ -46,3 +46,8 @@ Assim como o Subaru, acredito que não importa quantas vezes o código "quebre" 
 <br>
 
 > *"I have no strength, but I want it all. I have no knowledge, but all I do is dream. There's nothing I can do, but I struggle in vain."* — Natsuki Subaru
+
+## Portfolio principal
+
+- Site: https://gabrielmsorensen.github.io/g4t0xx-portfolio/
+- Repositorio: https://github.com/GABRIELMSORENSEN/g4t0xx-portfolio
